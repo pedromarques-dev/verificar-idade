@@ -1,0 +1,32 @@
+body{
+    font: normal 12pt Arial;
+    margin: 0px;
+    padding: 10px;
+    background-color: rgb(27, 109, 163);
+    color: white;
+}
+
+header{
+    text-align: center;
+}
+
+section{
+    background-color: white;
+    color: black;
+    width: 500px;
+    margin: auto;
+    border-radius: 10px;
+    box-shadow: 3px 3px 8px rgba(0, 0, 0, 0.315);
+}
+
+#caixa{
+    padding: 20px 20px 10px 20px;
+    margin-bottom: 10px;
+}
+div#res{
+    padding: 10px;
+}
+footer{
+    text-align: center;
+    font-style: italic;
+}
